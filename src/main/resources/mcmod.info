@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arkmod",
+  "name": "ArkMod",
+  "description": "Sevgili + öpüşme + etkileşim modu",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sen"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
